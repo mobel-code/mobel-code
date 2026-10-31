@@ -6,12 +6,6 @@ Hi. I'm Azizbek Nurmuhammadov Johongirovich
      />
 </div>
 
-<div align="center">
-  <img src="https://i.pinimg.com/originals/57/61/5b/57615b8c0092a66c1d4058b1692955cc.gif" width="100%">
-
-  <h1>Hi, I'm Azizbek 👋</h1>
-  <h3>Backend Developer | Python Developer</h3>
-</div>
 ------------------About Me ------------------
 
 ```javascript
