@@ -72,12 +72,30 @@ const azizbek = {
 
 ## Connect with Me
 
+📍 **Location:** Uzbekistan, Fergana
+
+🏢 **Organization:** MOBEL
+
+📧 **Email:** azizbeknurmuhammadov747@gmail.com
+
+💬 **Telegram:** just_mobel
+
+---
+
 <a href="https://github.com/mobel-code">
   <img src="https://img.shields.io/badge/GitHub-mobel--code-181717?style=for-the-badge&logo=github" />
 </a>
 
 <a href="https://instagram.com/just_mobel/">
   <img src="https://img.shields.io/badge/Instagram-just__mobel-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
+<a href="mailto:azizbeknurmuhammadov747@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://t.me/just_mobel">
+  <img src="https://img.shields.io/badge/Telegram-Contact-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
 </a>
 
 ---
