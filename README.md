@@ -1,3 +1,64 @@
+# Hi 👋, I'm Azizbek Nurmuhammadov
+
 <div align="center">
-  <img src="https://media.tenor.com/Hg4jUD7qrYMAAAAM/hack-the-planet-hacker-cat.gif" />
+  <img src="https://i.pinimg.com/originals/57/61/5b/57615b8c0092a66c1d4058b1692955cc.gif" width="100%" />
+</div>
+
+### 🚀 About Me
+
+```javascript
+const azizbek = {
+    name: "Azizbek Nurmuhammadov",
+    role: "Backend Developer",
+    languages: ["Python", "JavaScript", "Swift"],
+    technologies: {
+        backend: ["FastAPI", "Django"],
+        database: ["PostgreSQL", "SQLite"],
+        tools: ["Git", "GitHub", "PyCharm", "Xcode"]
+    },
+    currentlyLearning: ["iOS Development", "SwiftUI"],
+    interests: ["Backend Systems", "AI", "Startups"]
+};
+```
+
+### 💻 Technologies & Tools
+
+**Backend**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+
+**Database**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
+**Tools & Platforms**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white)
+
+### 📈 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+</div>
+
+### 🔥 GitHub Streak
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" width="100%" />
+</div>
+
+### 📫 Connect with Me
+
+- GitHub: [YOUR_GITHUB_USERNAME](https://github.com/YOUR_GITHUB_USERNAME)
+
+---
+
+<div align="center">
+  <i>Building ideas into reality. 🚀</i>
 </div>
