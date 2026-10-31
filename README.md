@@ -73,7 +73,7 @@ const azizbek = {
 ## Connect with Me
 
 <p>
-  📍 Uzbekistan, Fergana &nbsp; • &nbsp; 🏢 MOBEL
+  📍 Uzbekistan, Fergana &nbsp; • &nbsp; 🏢 IT-Park, IOS developer
 </p>
 
 <p>
