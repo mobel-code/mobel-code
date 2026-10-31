@@ -1,11 +1,11 @@
 
-# Hi. I'm Azizbek Nurmuhammadov Johongirovich
+Hi. I'm Azizbek Nurmuhammadov Johongirovich
 
 <div align="center">
   <img src="https://i.pinimg.com/originals/b4/e3/71/b4e371619042d1e80918d09904e90f7d.gif"
      />
 </div>
-### ------------------About Me ------------------
+------------------About Me ------------------
 
 ```javascript
 const azizbek = {
@@ -22,7 +22,7 @@ const azizbek = {
 };
 ```
 
-### ------------------Technologies & ToolsMe------------------
+------------------Technologies & ToolsMe------------------
 
 **Backend**
 
@@ -48,13 +48,13 @@ const azizbek = {
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="165" />
 </div>
 
-### ------------------GitHub StreakMe------------------
+------------------GitHub StreakMe------------------
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=mobel-code&theme=dark&hide_border=true&border_radius=12" width="70%" />
 </p>
 
-### ------------------Connect with MeMe------------------
+------------------Connect with MeMe------------------
 
 - GitHub: [mobel-code]([https://github.com/YOUR_GITHUB_USERNAME](https://github.com/mobel-code))
 - Instagram: [https://instagram.com/just_mobel/]
