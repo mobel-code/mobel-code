@@ -1,7 +1,7 @@
 # Hi 👋, I'm Azizbek Nurmuhammadov
 
 <div align="center">
-  <img src="https://i.pinimg.com/originals/57/61/5b/57615b8c0092a66c1d4058b1692955cc.gif" width="100%" />
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTZjMDliOTUyMXlkcmNrd3pwYmFtemRxMGpnN2gzdXhrMXp0eTE5a3Roa2h3Mm1hZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/P8ef3Dkynk0xLx1h1T/giphy.gif" width="100%" />
 </div>
 
 ### 🚀 About Me
