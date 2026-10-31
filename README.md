@@ -1,10 +1,11 @@
+
 # Hi. I'm Azizbek Nurmuhammadov Johongirovich
 
 <div align="center">
   <img src="https://i.pinimg.com/originals/b4/e3/71/b4e371619042d1e80918d09904e90f7d.gif"
      />
 </div>
-
+12345678910111213141516171819202122232425262728293031323334353637383940414243444546474849505152535455565758596061626364656667686970717273747576777879808182838485868788899091
 ### ------------------About Me------------------
 
 ```javascript
@@ -61,6 +62,6 @@ const azizbek = {
 - 
 ---
 
-<div align="center">
+<!-- <div align="center">
   <i>Building ideas into reality.</i>
-</div>
+</div> -->
