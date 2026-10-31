@@ -51,7 +51,7 @@ const azizbek = {
 ### ------------------GitHub StreakMe------------------
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" width="100%" />
+  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_mobel-code&theme=tokyonight&hide_border=true" width="100%" />
 </div>
 
 ### ------------------Connect with MeMe------------------
