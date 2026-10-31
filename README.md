@@ -5,7 +5,7 @@
      />
 </div>
 
-### 🚀 About Me
+### ------------------About Me------------------
 
 ```javascript
 const azizbek = {
@@ -22,7 +22,7 @@ const azizbek = {
 };
 ```
 
-### 💻 Technologies & Tools
+### ------------------Technologies & Tools------------------
 
 **Backend**
 
@@ -48,13 +48,13 @@ const azizbek = {
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="165" />
 </div>
 
-### 🔥 GitHub Streak
+### ------------------GitHub Streak------------------
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" width="100%" />
 </div>
 
-### 📫 Connect with Me
+### ------------------Connect with Me------------------
 
 - GitHub: [mobel-code]([https://github.com/YOUR_GITHUB_USERNAME](https://github.com/mobel-code))
 - Instagram: [https://instagram.com/just_mobel/]
@@ -62,5 +62,5 @@ const azizbek = {
 ---
 
 <div align="center">
-  <i>Building ideas into reality. 🚀</i>
+  <i>Building ideas into reality.</i>
 </div>
