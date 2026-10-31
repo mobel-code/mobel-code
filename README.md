@@ -1,4 +1,4 @@
-# Hi 👋, I'm Azizbek Nurmuhammadov
+# Hi. I'm Azizbek Nurmuhammadov Johongirovich
 
 <div align="center">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTZjMDliOTUyMXlkcmNrd3pwYmFtemRxMGpnN2gzdXhrMXp0eTE5a3Roa2h3Mm1hZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/P8ef3Dkynk0xLx1h1T/giphy.gif" width="100%" />
@@ -8,7 +8,7 @@
 
 ```javascript
 const azizbek = {
-    name: "Azizbek Nurmuhammadov",
+    name: "Azizbek Nurmuhammadov Johongirovich",
     role: "Backend Developer",
     languages: ["Python", "JavaScript", "Swift"],
     technologies: {
