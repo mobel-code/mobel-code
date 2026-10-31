@@ -55,8 +55,9 @@ const azizbek = {
 
 ### 📫 Connect with Me
 
-- GitHub: [YOUR_GITHUB_USERNAME](https://github.com/YOUR_GITHUB_USERNAME)
-
+- GitHub: [mobel-code]([https://github.com/YOUR_GITHUB_USERNAME](https://github.com/mobel-code))
+- Instagram: [https://instagram.com/just_mobel/]
+- 
 ---
 
 <div align="center">
