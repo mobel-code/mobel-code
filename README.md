@@ -68,37 +68,36 @@ const azizbek = {
 
 ---
 
-<div align="center">
+ <div align="center">
 
 ## Connect with Me
 
-📍 **Location:** Uzbekistan, Fergana
+<p>
+  📍 Uzbekistan, Fergana &nbsp; • &nbsp; 🏢 MOBEL
+</p>
 
-🏢 **Organization:** MOBEL
+<p>
+  📧 <a href="mailto:azizbeknurmuhammadov747@gmail.com">azizbeknurmuhammadov747@gmail.com</a>
+  <br/>
+  💬 <a href="https://t.me/just_mobel">just_mobel</a>
+</p>
 
-📧 **Email:** azizbeknurmuhammadov747@gmail.com
-
-💬 **Telegram:** just_mobel
-
----
+<br/>
 
 <a href="https://github.com/mobel-code">
-  <img src="https://img.shields.io/badge/GitHub-mobel--code-181717?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/GitHub-MOBEL--CODE-242938?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-
 <a href="https://instagram.com/just_mobel/">
-  <img src="https://img.shields.io/badge/Instagram-just__mobel-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  <img src="https://img.shields.io/badge/Instagram-JUST__MOBEL-242938?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
-
 <a href="mailto:azizbeknurmuhammadov747@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Email-CONTACT-242938?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-
 <a href="https://t.me/just_mobel">
-  <img src="https://img.shields.io/badge/Telegram-Contact-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+  <img src="https://img.shields.io/badge/Telegram-CONTACT-242938?style=for-the-badge&logo=telegram&logoColor=white" />
 </a>
 
----
+<br/><br/>
 
 <i>Building ideas into reality. 🚀</i>
 
