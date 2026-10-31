@@ -50,9 +50,9 @@ const azizbek = {
 
 ### ------------------GitHub StreakMe------------------
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_mobel-code&theme=tokyonight&hide_border=true" width="100%" />
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=mobel-code&theme=dark&hide_border=true&border_radius=12" width="70%" />
+</p>
 
 ### ------------------Connect with MeMe------------------
 
