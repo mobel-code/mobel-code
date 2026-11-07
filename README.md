@@ -1,6 +1,6 @@
  <div align="center">
 
-# Hi, I'm Azizbek Nurmuhammadov Johongirovich 👋
+# Hi, I'm Azizbek Nurmuhammadov Johongirovich 
 
 <img src="https://i.pinimg.com/originals/b4/e3/71/b4e371619042d1e80918d09904e90f7d.gif" width="100%" />
 
